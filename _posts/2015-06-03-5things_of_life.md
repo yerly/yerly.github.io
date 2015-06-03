@@ -16,4 +16,4 @@ categories: 随笔
 
 抄自。知乎[如何评价左耳朵耗子因为居住工作证离开阿里？][link]
 
-[link]:(http://www.zhihu.com/question/30778071)
+[link]:http://www.zhihu.com/question/30778071
